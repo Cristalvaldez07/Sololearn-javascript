@@ -1,1 +1,1 @@
-**Respuestas de los mini-quiz (SOLOLEARN)**
+**Respuestas de los mini-quiz(SOLOLEARN)**
