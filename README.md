@@ -1,6 +1,14 @@
 ## Respuestas de los mini-quiz(SOLOLEARN)
 
-# Modulo 1
+- [x] Modulo 1
+- [x] Modulo 2
+- [x] Modulo 3
+- [x] Modulo 5 
+- [x] Modulo 6
+- [x] Modulo 7
+- [x] Modulo 8   
+
+### Preguntas y Respuestas finales de los Modulos.
 
 Complete los espacios en blanco para generar "JS is cool!" a la consola:
 console.log ("¡JS es genial!");
@@ -21,7 +29,6 @@ nombre= "JAMES";
 console.log (nombre);
 </script>
 
-# Modulo 2
 
 ¿Cuáles de estos nombres son aceptables para las variables de JavaScript?
 Primer_modulo
@@ -34,8 +41,6 @@ cierto // boolean
 
 ¿Cuál es el resultado de la expresión var1 && var2, si var1 = true y var2 = false?
 false
-
-# Modulo 3
 
 ¿Cuál es el resultado de este código? var x = 0; mientras (x <6) {x ++; } document.write (x);?
 6
@@ -91,7 +96,6 @@ do
 while
  (i <10);
 
-# Modulo 4
 
 ¿El siguiente código dará como resultado qué valor? prueba de función (número) {while (número <5) {número ++; } número de retorno; } alerta (prueba (2)); ?
 5
@@ -132,8 +136,6 @@ else
 ¿Qué alerta se mostrará en la pantalla? función test (a, b) {if (a> b) {return a * b; } else {return b / a; }} alerta (prueba (5, 15));?
 3
 
-# Modulo 5
-
 Las propiedades de un objeto son similares a las variables; los métodos son similares a:
 funciones
 
@@ -155,7 +157,7 @@ weight
 calculate
 ;
 
-# Module 6
+# Modulo 5
 
 Dada la matriz a continuación, complete la expresión para recibir una alerta con "manzana".
 var fruit = new Array ("pera", "naranja",
@@ -198,7 +200,7 @@ Arrastre y suelte las opciones siguientes para recibir una alerta con el valor d
 
 alert ( Math . Pi );
 
-# Modulo 7
+
 
 Fill in the blanks to change the content of all paragraph tags of the page to "SoloLearn".
 var arr = 
@@ -252,7 +254,6 @@ Muestre una alerta cuando el puntero del mouse esté sobre la etiqueta div:
 
 </div>
 
-# Modulo 8
 
 ¿Cuál de las siguientes no es una de las nuevas características de ES6?
 Hoisting
@@ -314,23 +315,5 @@ id
 console.log (newUser);
 
 Complete los espacios en blanco para obtener el siguiente resultado: cero = 0 uno = 1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
