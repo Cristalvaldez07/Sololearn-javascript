@@ -157,7 +157,7 @@ weight
 calculate
 ;
 
-# Modulo 5
+
 
 - Dada la matriz a continuación, complete la expresión para recibir una alerta con "manzana".
 var fruit = new Array ("pera", "naranja",
